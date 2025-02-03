@@ -73,3 +73,41 @@ This is pretty simple:
 ---
 
 One big thing to remember is that you can't take a new line for regular text. This can only go with headers and code blocks. You are always required to skip a line.
+
+### Lists
+
+```
+
+1. yap
+2. refer to number 42
+42. refer to number 1
+
+
+- hi
+- heloo
+
++ hey
++ example
+
+* hi
+* hi
+
+```
+
+---
+
+1. yap
+2. refer to number 42
+42. refer to number 1
+
+
+- hi
+- heloo
+
++ hey
++ example
+
+* hi
+* hi
+
+  ---
