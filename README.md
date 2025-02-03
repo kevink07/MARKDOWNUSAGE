@@ -111,3 +111,13 @@ One big thing to remember is that you can't take a new line for regular text. Th
 * hi
 
   ---
+
+
+### Underline
+
+```
+<u>hello</u>
+```
+---
+<u>hello</u>
+---
